@@ -2,7 +2,7 @@
 Pagina que muestra películas desde una API.
 
 ## Link Vercel
-[http://localhost:3000](http://localhost:3000) 
+[http://localhost:3000](https://buscador-peliculas-8ownyay3o-oscarg097.vercel.app/) 
 
 ### Requerimientos del proyecto
 Crear una app de React usando create-react-app con las siguientes características:
